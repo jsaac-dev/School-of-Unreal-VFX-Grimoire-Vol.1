@@ -12,5 +12,11 @@ Now you may not know yet what most of these terms mean, but we'll get through al
 ## Why it matters
 ### *-Of Wisdom Behind Each Craft-*
 
+Like casting a real spell, using VFX takes discipline and technique. Sure, you can create the most beautiful visuals imaginable, but if the game can't actually run what you created, then you already lose half of the battle. A spell that isn't clean can fumble and take a long time to cast. The good thing is, this can be taught.
+
+#### Every real magic system has a cost
+
+Like spending mana, VFX draws resource from a budget that isn't infinite. A wise wizard doesn't just cast powerful spells, they must learn how to cast them efficiently. We'll learn more about optimizing our craft as we go, but holding onto this funamental wisdom now will help you master your own technique in creating you own spells
+
 ## UE Terminologies
 ### *-Lexicon of Unreal Sorcery-*
