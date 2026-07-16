@@ -1,5 +1,5 @@
 # Introduction
-### *-The Magic System-*
+## *-The Magic System-*
 
 ## What it is
 ### *-Nature of the Art-*
